@@ -76,10 +76,10 @@ I'm a **Junior Software Engineer** with **2 years of experience** in building sc
 
 ## 📬 Contact Me  
 📍 **Location:** Bengaluru, India 
-📧 **Email:** akramroy813@gmail.com  
-🔗 **Portfolio:** [akramshaik.dev](https://akramshaik615.github.io/MyPortfolio/)
-🔗 **LinkedIn:** [linkedin.com/in/akram813](https://www.linkedin.com/in/shaik-akram-3a6429228/)  
-💻 **GitHub:** [github.com/AkramShaik615](https://github.com/AkramShaik615)  
+- 📧 **Email:** akramroy813@gmail.com  
+- 🔗 **Portfolio:** [akramshaik.dev](https://akramshaik615.github.io/MyPortfolio/)
+- 🔗 **LinkedIn:** [linkedin.com/in/akram813](https://www.linkedin.com/in/shaik-akram-3a6429228/)  
+- 💻 **GitHub:** [github.com/AkramShaik615](https://github.com/AkramShaik615)  
 
 ---
 
