@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akram Shaik!  
 
 ## 🚀 About Me  
-I'm a **Junior Software Engineer** with **2 years of experience** in building scalable and efficient applications. Passionate about **Java development**, cloud technologies, and problem-solving, I specialize in **backend development, database management, and system optimization**.  
+I'm a **Junior Software Engineer** with **2 years of experience** in building scalable and efficient applications. Passionate about **Java development**, cloud technologies, and problem-solving, I specialize in **Full Stack Development, Database Management, and System Optimization**.  
 
 ---
 
