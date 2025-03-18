@@ -62,14 +62,14 @@ I'm a **Junior Software Engineer** with **2 years of experience** in building sc
 ## 🎓 Education  
 
 ### **Chadalawada Ramanama Engineering College** *(June 2018 – July 2022)*  
-**Bachelor of Technology in Mechanical Engineering | GPA: 8.13/10**  
+**Bachelor of Technology in Mechanical Engineering(B.Tech) | GPA: 8.13/10**  
 📍 Tirupati, Andhra Pradesh 
 
 ### **Vikram Junior College** *(June 2016 – March 2018)*  
 **Mathematics, Physics, and Chemistry(MPC) | GPA: 8.56/10**  
 📍 Srikalahasti, Andhra Pradesh 
 
-### **Vikram Junior College** *(June 2015 – April 2016)*  
+### **Vikram Junior College** *(June 2015 – March 2016)*  
 **Secondary School Certificate(SSC) | GPA: 8.2/10**  
 📍 Srikalahasti, Andhra Pradesh 
 
